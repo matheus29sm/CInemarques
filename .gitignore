@@ -1,0 +1,6 @@
+nbproject
+.project
+build.xml
+.launch.json
+/build/
+.vscode
